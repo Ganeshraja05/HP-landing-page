@@ -3,7 +3,8 @@
 Welcome to **HP Premium Laptops** – a world-class website that showcases cutting-edge technology and elegant design. This project is built using **HTML**, **CSS**, and **JavaScript**, featuring smooth animations powered by GSAP. Enjoy a premium experience that brings HP’s signature innovation right to your screen.
 
 ---
-
+## Demo
+https://ganeshraja05.github.io/HP-landing-page/
 ## ✨ Features
 
 - **Responsive Design:** Adaptable layout for desktop, tablet, and mobile 📱💻
